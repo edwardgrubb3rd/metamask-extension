@@ -4315,9 +4315,9 @@
     mersenne-twister "^1.1.0"
 
 "@metamask/logo@^3.1.0":
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/@metamask/logo/-/logo-3.1.0.tgz#6b7b9b90b6d846583558de855511d34796735855"
-  integrity sha512-W0FBwIaG1pC4Vk/ZdUJYv7PDjnAbQJro3yhEXN7WXEdz8kyVcxFb6dj0Dpe6ytaveYiqIL6+iDDWMevzU2MpVw==
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/@metamask/logo/-/logo-3.1.2.tgz#130a5b463d51520366b2f20115032e92dd80138e"
+  integrity sha512-j35bKtwgjSYHIw77KGokra2qXkuwna8V8YKv5IzNMbT5c6hP2yHy09ycrEgNDLRy3i7pRXnv7WteyoJKLq7ZjA==
   dependencies:
     gl-mat4 "1.1.4"
     gl-vec3 "1.0.3"
